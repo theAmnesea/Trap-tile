@@ -86,10 +86,14 @@ To play **TrapTile** locally, you’ll need the following:
 
 - **Web Browser** (game runs directly in the browser)
 - **Metamask** or similar blockchain wallet (to interact with Avalanche rewards)
-- 
+
 
 ### **Steps to Install:**
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/theAmnesea/Trap-tile.git
+
+##screenshots
+
+
