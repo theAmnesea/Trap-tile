@@ -48,8 +48,6 @@
   - **Unswept Tiles:** Breakable floors 💥. Land on or press down to smash through them.
   - **Enemy Tiles:** Hostile zones 👾. Avoid them or defeat the enemies using your weapons.
 
-- **Strategy:**  
-  Hop left or right to dodge obstacles and land on safe surfaces. Some platforms require jumping across gaps to avoid falling off.
 
 ---
 
@@ -60,6 +58,23 @@
 - **Power-Ups:** Collect power-ups to boost your chances of survival.
 - **Multiple Ranks & Rewards:** Earn XP and rewards for surviving longer, defeating enemies, and completing challenges.
 - **Leaderboards:** Compete with others globally for the highest score.
+- **Endless Arcade Action:**  
+  Keep running downward while overcoming obstacles and enemies in an endless survival mode.
+
+- **Procedural Level Generation:**  
+  Rule-based level design generates new, varied grids every time you play, offering endless replayability.
+
+- **Blockchain Integration (Avalanche Network):**  
+  Earn blockchain-based rewards via the **Avalanche** network, where your in-game performance impacts your real-world blockchain assets.
+
+- **WhalePass Integrated Rewards:**  
+  Track your XP, ranks, and progress through **WhalePass**, and unlock rewards such as in-game skins, power-ups, and tokenized NFTs.
+
+- **NFT & Token Rewards:**  
+  Based on player performance, earn exclusive NFTs and tokens that can be traded or used within the game or on external marketplaces.
+
+- **Avalanche Chain Rewards:**  
+  Experience Avalanche's fast and secure blockchain to track achievements, rewards, and in-game assets.
 
 ---
 
@@ -69,9 +84,9 @@
 
 To play **TrapTile** locally, you’ll need the following:
 
-- **Unity** (or your preferred IDE for Unity-based development)
-- **.NET Framework** (if you’re running on a Windows machine)
-- A web browser (for web deployment) or an appropriate device (for mobile deployment)
+- **Web Browser** (game runs directly in the browser)
+- **Metamask** or similar blockchain wallet (to interact with Avalanche rewards)
+- 
 
 ### **Steps to Install:**
 
