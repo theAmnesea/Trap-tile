@@ -1,0 +1,84 @@
+<h1 style="text-align: center; font-size: 250%"><em>Sweep. Survive. Evolve.</em></h1>
+<hr>
+<h2>Evolving Abilities:</h2>
+<table style="border-color: #51515b;">
+    <tbody>
+        <tr>
+            <td><strong style="font-size:125%">Expanding Grid</strong></td>
+            <td>Navigate grids that grow from&nbsp;<strong>2x2</strong>&nbsp;to&nbsp;<strong>10x10</strong>, adding new layers of challenge with each expansion!</td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Upgradable Guns</strong></td>
+            <td>Unlock&nbsp;<strong>11+&nbsp;</strong>powerful upgrades to enhance your firepower. *</td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2>Overview:</h2>
+<table style="border-color: #51515b;">
+    <tbody>
+        <tr>
+            <td><strong style="font-size:125%">Sweep and Shoot</strong></td>
+            <td>Uncover hidden tiles, dodge enemies, and find awesome power-ups! **</td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Cunning Foes</strong></td>
+            <td>Stay sharp! Some enemies can cover your tiles back up, making it more challenging.</td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Explosive Fun</strong></td>
+            <td>Watch out for bombs! They can hurt you and your foes while messing up several tiles at once.</td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Progression</strong></td>
+            <td>Clear the entire grid to advance to tougher, larger layouts.</td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2>Controls:</h2>
+<table style="border-color: #51515b;">
+    <tbody>
+        <tr>
+            <td><strong style="font-size:125%">Move</strong></td>
+            <td>Use the "<strong>ARROW</strong>" or "<strong>WASD</strong>" keys to navigate.</td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Sweep Tiles</strong></td>
+            <td>Press "<strong>SPACEBAR</strong>" to reveal hidden tiles.</td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Auto Fire</strong></td>
+            <td>Your gun automatically locks on and fires at enemies.</td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2>Team:</h2>
+<table style="border-color: #51515b;">
+    <tbody>
+        <tr>
+            <td><strong style="font-size:125%">Ankit Kumar</strong></td>
+            <td><a href="https://akamaestro.com/" target="_blank">akamaestro.com/</a></td>
+        </tr>
+        <tr>
+            <td><strong style="font-size:125%">Mayank Raj</strong></td>
+            <td><a href="https://agrmayank.com/" target="_blank">agrmayank.com/</a></td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2>Bugs:</h2>
+<table style="border-color: #51515b;">
+    <tbody>
+        <tr>
+            <td>* <strong style="font-size:125%">Gun Upgrades</strong> are not displayed due to some issue., you only see the default bullet each time.</td>
+        </tr>
+        <tr>
+            <td>** <strong style="font-size:125%">Health Pickups</strong> are not spawning in the later levels.</td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<p>Can you master the grid and conquer <em><strong style="font-size:125%">TileBound?</strong></em>
+</p>

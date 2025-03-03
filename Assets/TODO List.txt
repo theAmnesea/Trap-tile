@@ -1,0 +1,47 @@
+- Tutorial @ankit 
+(spawn logic is done)
+	0. 2x2 - introduction to movement
+		+ all tile should be swept
+	1. 2x3 - introduction to tile sweep
+		+ all tile should be unswept
+	2. 3x3 - bomb  intro
+		+ unsweeping should popup a bomb at once
+		+ something to indicate damage to Player
+	3. 4x4 - enemy intro (monster) will kill you
+		+ only monster should start spawning and remaining logic as it is
+		+ gun should not appear at this stage 
+	4. 4x4- just play till new upgrade
+	5. 5x5 - shooting intro (text saying auto shooting information)
+		+ gun/bullet should appear as buff tile
+	6. 6x6 - shooting upgrades!!
+		+ more gun more bullet buff intro
+	7. 7x7 - health upgrade intro
+		+ health should appear as buff tile 
+	8. 8x8 - skeleton enemy intro and unsweep
+		+ spawnnign skele tion enemy 
+		+ intro to unsweep tile 
+	9. 9x9 - practice
+	10. 10x10 - WIN
+		intro to WIN condition : sweep full grid and kill enemy 
+
+ + logic @mayank
+
+- Smoothen movement animations
+
+
+BUGS to check :
+- Double check layers
+
+-Bullet spawwing randomly 
+
+health : 
+-health tile not destructing after taken
+-health not remembered continuously level after level
+
+-music should not restart again at every level
+
+-skeleton spawn adjacent swept tile  condition check 
+
+enemy spawn condition check :
+-skeleton not spawning as much as monsters (SUGGESTED to alternate spawns )
+-unlimited enemy not spawning

@@ -1,0 +1,50 @@
+Set of prompts for your UI canvases in TileBound:
+
+Level 0.  2x2 - Movement Introduction 
+-  Prompt : "Welcome to TileBound !. Use the arrow keys or WASD to move across the grid. All tiles are swept, HERO !"
+-  Action : Player practices movement in a fully swept grid.
+
+Level 1.  2x3 - Tile Sweep Introduction 
+-  Prompt : "Reveal the hidden world !. Press SPACE to 'sweep' tiles and uncover what's beneath. Unswept tiles are your target!"
+-  Action : All tiles are unswept. Player learns the tile-sweeping mechanic.
+
+Level 2.  3x3 - Bomb Introduction 
+-  Prompt : "Mind Your Sweep, You’ve triggered a bomb!!. Use bombs to clear multiple enemies at once. Watch your health bar! not everything is friendly!."
+-  Action : Sweeping a tile causes a bomb to appear, showing damage to the player.
+
+Level 3.  4x4 - Monster Enemy Introduction 
+-  Prompt : "Monsters ahead!  It appears on unswept tiles. A Monster is after you! It will kill you if it reaches you! Stay sharp and stay alive!"
+-  Action : Monsters start spawning, no gun/bullet power-ups yet. Player learns to evade enemies.
+
+Level 4.  4x4 - Play Until Upgrade 
+-  Prompt : "Keep sweeping, avoid the Monster!. Can you survive until your first upgrade?.You WIN if you sweep all the Tiles."
+-  Action : Player continues gameplay, aiming to stay alive for an upgrade.
+
+Level 5.  5x5 - Shooting Introduction 
+-  Prompt : "Auto-shoot activated! shoot at enemies!. You automatically shoot at enemies in range. You WIN if you sweep all the Tiles"
+-  Action : Gun/bullet appears as a buff tile, introducing the shooting mechanic.
+
+Level 6.  6x6 - Shooting Upgrades 
+-  Prompt : "Upgrade your firepower!. Sweep tiles to find the power-up, pickup your shots!. Collect more bullets to increase your shooting power!"
+-  Action : More gun/bullet power-ups appear, upgrading shooting abilities.
+
+Level 7.  7x7 - Health Upgrade Introduction 
+-  Prompt : "Boost your survival!. Collect health buffs to restore your health!. Sweep, health upgrades keep you in the fight"
+-  Action : Health buff tiles appear, teaching players about health recovery.
+
+Level 8.  8x8 - Skeleton Enemy & Unsweeping Introduction 
+-  Prompt : "SKELETON !!! New threat detected!. It unsweeps your tiles. Don’t let them erase your progress!. Defeat it before its over! "
+-  Action : Skeleton enemy spawns, introduces the unsweeping mechanic.
+
+Level 9.  9x9 - Full Grid Sweep practice
+-  Prompt : "Practice makes HERO  perfect !. Sweep tiles, master the upgrades that will lead you to victory. You’re almost there!"
+-  Action : Player sweeps the grid and kills enemies, learning the win condition.
+
+Level 10.  10x10 - Win Condition  
+-  Prompt : "Sweep! Survive! Evolve!. Sweep full area tiles and defeat all enemies. WIN the game, HERO!"
+-  Action : Player advances to the next level, ready for larger grids and tougher enemies.
+
+
+
+
+You WIN if you sweep all the Tiles
