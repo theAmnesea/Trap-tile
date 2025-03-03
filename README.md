@@ -94,6 +94,6 @@ To play **TrapTile** locally, you’ll need the following:
    ```bash
    git clone https://github.com/theAmnesea/Trap-tile.git
 
-##screenshots
+### screenshots
 
 
