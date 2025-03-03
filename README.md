@@ -96,12 +96,12 @@ To play **TrapTile** locally, you’ll need the following:
 
 ### **Screenshots**
 
-![Game Screenshot 1](images/1.png)
+![Game Screenshot 1](Images/1.png)
 *Caption: homescreen.*
 
-![Game Screenshot 2](images/2.png)
+![Game Screenshot 2](Images/2.png)
 *Caption: Collect power-ups to survive longer in **TileTrap**.*
 
-![Game Screenshot 1](images/3.png)
+![Game Screenshot 1](Images/3.png)
 
-![Game Screenshot 2](images/4.png)
+![Game Screenshot 2](Images/4.png)
